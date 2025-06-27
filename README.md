@@ -33,7 +33,7 @@ Esto es útil para mejorar la eficiencia y la capacidad de respuesta en aplicaci
   La aplicación solo utiliza módulos estándar (json, asyncio, os), por lo que no es necesario instalar paquetes externos.
 
 • Permisos de lectura/escritura:  
-  El programa lee y escribe en un archivo local llamado patients.json. Se necesita permiso para crear y modificar este archivo en el directorio donde se ejecute el script.
+  El programa lee y escribe en un archivo local llamado  patients.json. Se necesita permiso para crear y modificar este archivo en el directorio donde se ejecute el script.
 
 • Entorno de consola:  
   La interacción con el usuario se realiza vía consola (terminal), por lo que debe ejecutarse en un entorno que permita entrada y salida estándar.
